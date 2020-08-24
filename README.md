@@ -1,2 +1,2 @@
 # t-rex
-This is the trex game, when the t-rex jumps over cacti
+This is the trex game, where the t-rex jumps over cacti
